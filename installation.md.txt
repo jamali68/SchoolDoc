@@ -1,0 +1,8 @@
+# Installation Guide
+
+Follow these steps to install **School In Pocket**:
+
+1. Download the latest release from the official website.
+2. Extract the files on your server.
+3. Configure your database connection.
+4. Run the installation wizard via your browser.

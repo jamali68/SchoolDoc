@@ -1,0 +1,8 @@
+# Usage Guide
+
+Learn how to use the main features of **School In Pocket**:
+
+- How to add students and teachers
+- Managing attendance
+- Generating fee invoices
+- Viewing exam results

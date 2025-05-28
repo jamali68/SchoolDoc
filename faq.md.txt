@@ -1,0 +1,7 @@
+# Frequently Asked Questions
+
+**Q: Is there a mobile app available?**  
+A: Yes, School In Pocket comes with Android and iOS apps.
+
+**Q: Can I manage multiple schools?**  
+A: Absolutely! The system supports multiple school profiles.
